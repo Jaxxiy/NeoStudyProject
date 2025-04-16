@@ -14,5 +14,4 @@ docker run -p 8080:8080 vacation-calculator
 {
     "avgSalary" : //число,
     "daysCount": //число,
-    "vacationStartDate": //можем либо указывать дату либо нет  
-}
+    "vacationStartDate": //можем либо указывать дату либо нет  }
